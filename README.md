@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @XxHarvzBackxX
-- 👀 I’m interested in games, coding logic, and modding games using .json
-- 🌱 I’m currently learning JSON.
-- 💞️ I’m looking to collaborate on anything involving games, or anything else that interests me, really.
-- 📫 Reach me via my Discord user at XxHarvzBackxX#3665
+- 
+- Hi, I’m @XxHarvzBackxX
+- Reach me via my Discord user at XxHarvzBackxX#3665
